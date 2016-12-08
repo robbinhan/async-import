@@ -1,0 +1,11 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        # 分号
+        semi: [2, 'never'],
+        #对象字面量项尾不能有逗号
+        comma-dangle: [2, "never"],
+        #每行宽度
+        max-len: ["error", 200]
+    }
+}

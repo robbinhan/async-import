@@ -1,0 +1,17 @@
+{
+  "name": "async-import",
+  "version": "1.0.0",
+  "description": "async require module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.11.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-jsx-a11y": "^3.0.1"
+  }
+}
